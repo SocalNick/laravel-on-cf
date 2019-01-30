@@ -1,6 +1,6 @@
 # Laravel on CF
 
-A skeleton Laravel app that stages and runs on Cloud Foundry. Replicate the steps below or fork this repo to start your Laravel project.
+A skeleton [Laravel app that stages and runs on Cloud Foundry](http://laravel-on-cf.cfapps.io). Replicate the steps below or fork this repo to start your Laravel project.
 
 ## Initialize a Laravel project
 
